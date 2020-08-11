@@ -8,7 +8,18 @@ https://www.udemy.com/course/kids-coding-introduction-to-html-css-and-javascript
 https://www.udemy.com/course/programming-for-kids-how-to-make-coding-fun/
 
 # Tools
-## games
+## Games
+
+code.org
+https://www.codecademy.com/
+
+https://teamtreehouse.com/library
+
+https://scratch.mit.edu/projects/editor/?tutorial=getStarted
+
+http://www.alice.org/about/
+
+https://mokup.app/tutorials/
 
 https://studio.code.org/projects/public
 
@@ -16,11 +27,11 @@ https://codewizardshq.com/coding-for-kids-free/
 
 https://www.gethopscotch.com/
 
-https://scratch.mit.edu/projects/editor/?tutorial=getStarted
+
 
 https://www.hongkiat.com/blog/programming-tools-kids/
 
 
-## html css and JS
+## HTML CSS and JS
 
 http://jsbin.com/?html,output
